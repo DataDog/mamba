@@ -22,7 +22,7 @@ dependencies = [
     "einops",
     "transformers",
     "packaging",
-    "setuptools>=61.0.0",
+    "setuptools>=82.0.1",
 ]
 [project.urls]
 Repository = "https://github.com/state-spaces/mamba"
@@ -38,7 +38,7 @@ dev = [
 
 [build-system]
 requires = [
-    "setuptools>=61.0.0",
+    "setuptools>=82.0.1",
     "wheel",
     "torch",
     "packaging",
